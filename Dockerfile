@@ -1,5 +1,5 @@
 # use a node base image
-FROM node:7-onbuild
+FROM 161035852731.dkr.ecr.cn-north-1.amazonaws.com.cn/node7onbuild:latest
 
 # set maintainer
 LABEL maintainer "academy@release.works"
