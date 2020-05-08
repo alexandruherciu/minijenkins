@@ -1,4 +1,4 @@
-node (label: 'aws-cn') {
+node {
     def app
 
     stage('Clone repository') {
